@@ -1,0 +1,1 @@
+Este repositório é composto por projetos básico de HTML, são todos partes do desafio HTML da Rockseat.
